@@ -1,0 +1,11 @@
+{
+  "name": "dieukhien",
+  "version": "1.0.0",
+  "description": "dieu khien thiet bi den",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Vinh",
+  "license": "ISC"
+}
